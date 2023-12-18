@@ -1,0 +1,4 @@
+User Name: socratesmecaros
+Password: mJXOnC3RBjyF2G0j
+
+mongodb+srv://socratesmecaros:mJXOnC3RBjyF2G0j@socdb.js4hiss.mongodb.net/?retryWrites=true&w=majority
